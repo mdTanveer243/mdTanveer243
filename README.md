@@ -35,7 +35,7 @@ Clustering-based analysis of individuals' financial health using unsupervised ML
 ## 📫 Let’s Connect
 - ✉️ Email: tanveersiddiqui243@gmail.com  
 - 💻 LinkedIn: www.linkedin.com/in/mdtanveer01
-- 🌐 Portfolio: Coming Soon!
+- 🌐 Portfolio: https://mdtanveer243.github.io/Portfolio/
 
 ---
 
