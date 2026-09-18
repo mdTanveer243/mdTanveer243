@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Md Tanveer
 
-🎓 B.Sc. in Computer Science & Data Analytics | IIT Patna '26  
-📈 Aspiring Data Scientist | ML Engineer | Full-Stack AI Enthusiast  
+🎓 BS in Computer Science & Data Analytics | IIT Patna '27  
+📈 Aspiring AI/ML Engineer | Data Scientist | Full-Stack AI Enthusiast  
 🌱 Currently learning Deep Learning, MLOps & Backend Development
 
 ---
@@ -9,8 +9,8 @@
 ## 🛠️ Skills & Tools
 - **Languages**: Python, SQL, JavaScript
 - **Libraries**: scikit-learn, pandas, NumPy, seaborn, matplotlib
-- **ML/DL**: TensorFlow, PyTorch, SHAP, LIME
-- **Web Dev**: Flask, FastAPI, React (learning)
+- **ML/DL**: TensorFlow, PyTorch, SHAP, LIME , Hugging Face Transformers
+- **Web Dev**: FastAPI, React (learning)
 - **DevOps**: GitHub Actions, Docker, AWS EC2
 - **Tools**: VS Code, Git, Jupyter, Google Colab
 
