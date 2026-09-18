@@ -18,8 +18,11 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [HireAI](https://github.com/mdTanveer243/HireAI-AI-driven-hiring-predictions)
-AI-driven hiring prediction system using classification models with a full ML pipeline.
+### 🔹 [DocDiff-AI](https://github.com/mdTanveer243/DocDiff-AI)
+AI-powered PDF comparison tool that flags added, removed, and reworded content — including changes buried inside tables — using sentence embeddings and structural diffing.
+
+### 🔹 [eMandi](https://github.com/mdTanveer243/e-Mandi)
+eMandi — An AI-powered digital wholesale marketplace connecting farmers and buyers with intelligent price prediction, demand forecasting, and personalized recommendations.
 
 ### 🔹 [Student Performance Prediction](https://github.com/mdTanveer243/Student-Performance-Prediction)
 An end-to-end ML pipeline with modular code structure, CI/CD, Docker, and AWS deployment-ready.
@@ -36,6 +39,7 @@ Clustering-based analysis of individuals' financial health using unsupervised ML
 - ✉️ Email: tanveersiddiqui243@gmail.com  
 - 💻 LinkedIn: www.linkedin.com/in/mdtanveer01
 - 🌐 Portfolio: https://mdtanveer243.github.io/Portfolio/
+- 📞 Phone : 6203921895
 
 ---
 
