@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Md Tanveer
 
+#### AI Project Manager @Darwix AI   ||  Ex AI/ML Intern @Finfresh
 🎓 BS in Computer Science & Data Analytics | IIT Patna '27  
 📈 Aspiring AI/ML Engineer | Data Scientist | Full-Stack AI Enthusiast  
 🌱 Currently learning Deep Learning, MLOps & Backend Development
